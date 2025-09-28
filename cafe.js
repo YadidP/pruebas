@@ -8,4 +8,5 @@ let resultadoSuma = numero1 + numero2;
 // 3. Salida de datos (mostrar el resultado)
 console.log("¡Hola! La suma de los dos números es:");
 console.log(resultadoSuma);
+console.log("¡Gracias por usar nuestro programa!");
 console.log("adios bye bye");
